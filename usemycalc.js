@@ -1,0 +1,6 @@
+const c1=require("./calc")
+console.log(c1.add(3,4))
+console.log(c1.sub(8,2))
+console.log(c1.mul(3,4))
+console.log(c1.div(10,5))
+console.log(c1.square(5))
